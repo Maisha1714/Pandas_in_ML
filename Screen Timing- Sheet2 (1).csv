@@ -1,0 +1,13 @@
+Age,0_to_1_hour,2_to_3_hours,4_to_5_hours,6_to_7_hours,8_to_9_hours,9_or_more_hours,total,condition
+Parent of a kid Younger than 5 years old,25,51,45,32,11,14,178,covid
+Parent of a kid 5 to 12 years old ,19,47,94,63,34,30,287,covid
+Parent of a kid 13 to 17 years old,8,38,71,57,39,36,249,covid
+Total Under 18,52,136,210,152,84,80,714,covid
+Parent of a kid 18 or older ,63,77,91,67,41,42,381,covid
+Total,115,213,301,219,125,122,1095,covid
+Parent of a kid Younger than 5 years old ,50,76,30,13,3,7,179,pre
+Parent of a kid 5 to 12 years old ,53,133,59,27,5,8,285,pre
+Parent of a kid 13 to 17 years old,21,110,74,15,13,17,250,pre
+Total Under 18,124,319,163,55,21,32,714,pre
+Parent of a kid 18 or older,58,162,88,24,16,32,380,pre
+Total,182,481,251,79,37,64,1094,pre
